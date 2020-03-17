@@ -1,2 +1,2 @@
-# FirstOne
+# Python
 ** First Python Program **
